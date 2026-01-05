@@ -29,12 +29,14 @@
         android:hint="Username"
         android:inputType="textEmailAddress"
         android:layout_margin="16dp"
-        android:minHeight="48dp"
+        android:minHeight="48dp" />
 
-
-
-
-        />
-
-
+    <EditText
+        android:id="@+id/login_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:layout_margin="16dp"
+        android:minHeight="48dp" />
 </LinearLayout>
