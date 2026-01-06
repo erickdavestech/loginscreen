@@ -1,8 +1,14 @@
 <resources>
+    <!-- Login Screen -->
     <string name="app_name">LoginScreenLabCoursera</string>
     <string name="login_title">Login Application</string>
     <string name="hint_username">Username</string>
     <string name="hint_password">Password</string>
     <string name="button_login">Login</string>
     <string name="register_link">Register for a new account</string>
+
+
+    <!-- Register View For Login Screen-->
+    <string name="app_register">Register</string>
+
 </resources>
